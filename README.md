@@ -1,6 +1,5 @@
-# 🚚 Factory Method - Exemplo de Padrão de Projeto em Python
-
-Este projeto demonstra o uso do padrão de projeto **Factory Method** com um exemplo prático envolvendo diferentes tipos de logística: terrestre, marítima e aérea.
+# 🧱 Projeto - Abstract Factory de APIs
+Este projeto demonstra o uso do padrão de projeto **Abstract Factory** em Python, simulando a integração com diferentes APIs estaduais (Fortaleza e Ceará) para coleta de dados de transporte e segurança.
 
 ## 📦 Estrutura do Projeto
 
@@ -20,5 +19,4 @@ ABSTRACT_FACTORY_APIS/
 ```
 
 ## 🧠 Objetivo
-
 Aplicar o padrão de projeto **Abstract Factory** para instanciar diferentes APIs dependendo do contexto, de forma desacoplada e flexível.
